@@ -1,0 +1,23 @@
+.titel-line {
+  height: 100px;
+  background: linear-gradient(180deg, rgba(13,11,11,1) 0%, rgba(77,72,72,0.9080882352941176) 100%);
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 5px;
+  font-size: 2rem;
+  
+}
+.links{
+grid-column: 2;
+display: flex;
+justify-content: end;
+align-items: center;
+}
+
+
+.header{
+  color: white;
+  display: flex;
+  align-items: center;
+}

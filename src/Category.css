@@ -1,0 +1,13 @@
+.category-links{
+display: flex;
+justify-content: center;
+gap: 15px;
+margin-top: 35px;
+
+
+}
+
+a:link, a:visited{
+color: white;
+    font-size: 1.5rem;
+}

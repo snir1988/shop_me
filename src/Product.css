@@ -1,0 +1,31 @@
+.product {
+    height: 180px;
+    width: 140px;
+    border: 1px white solid;
+    
+}
+
+.product-name {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 97px;
+}
+
+.price-add {
+display: flex;
+justify-content: start;
+gap: 10px;
+padding: 5px;
+display: flex;
+justify-content: center;
+position: relative;
+top: 97px;
+}
+
+.add {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
